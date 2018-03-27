@@ -1,3 +1,4 @@
 name: Beau Kramer
 markdown: kramdown
 description: experimenting with data science applications in finance
+permalink: /blog/:year/:month/:day/:title
