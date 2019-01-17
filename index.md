@@ -17,7 +17,7 @@
 - 207 Lab 3
 ### Statistics
 - [Forest Fire EDA](https://github.com/beaukramer/mids/blob/master/Stats/ForestFire/liu_warther_kramer_hegde_fires.pdf)
-- [Crime](https://github.com/beaukramer/mids/blob/master/Stats/Crime/Kramer_Liu_crime.pdf)
+- [Crime Policy North Carolina](https://github.com/beaukramer/mids/blob/master/Stats/Crime/Kramer_Liu_crime.pdf)
 
 ### Fun
 
