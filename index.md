@@ -11,7 +11,7 @@
 - [MNIST with K-Nearest Neighbors and Naive Bayes](https://github.com/beaukramer/mids/blob/master/ML/MNIST/MNIST_knn_nb.ipynb)
 - [News Article Topic Classification](https://github.com/beaukramer/mids/blob/master/ML/TopicClassification/topic_classification.ipynb)
 - [Poisnous Mushroom Clustering](https://github.com/beaukramer/mids/blob/master/ML/Mushroom%20Clustering/mushroom_clustering.ipynb)
-- 207 final project
+- [Forest Cover Prediction]()
 - 266 Project
 ### Statistics
 - [Forest Fire EDA](https://github.com/beaukramer/mids/blob/master/Stats/ForestFire/liu_warther_kramer_hegde_fires.pdf)
