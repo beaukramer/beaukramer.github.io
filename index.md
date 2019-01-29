@@ -6,13 +6,15 @@
 
 ### Finance
 - [Exploring Equity Returns](https://github.com/beaukramer/financial_analysis/blob/master/equity_returns.ipynb)
+- [Eigen Portfolios]
 
 ### Machine Learning
 - [MNIST with K-Nearest Neighbors and Naive Bayes](https://github.com/beaukramer/mids/blob/master/ML/MNIST/MNIST_knn_nb.ipynb)
 - [News Article Topic Classification](https://github.com/beaukramer/mids/blob/master/ML/TopicClassification/topic_classification.ipynb)
 - [Poisnous Mushroom Clustering](https://github.com/beaukramer/mids/blob/master/ML/Mushroom%20Clustering/mushroom_clustering.ipynb)
-- [Forest Cover Prediction]()
-- 266 Project
+- [Forest Cover Prediction](https://github.com/beaukramer/mids/blob/master/ML/ForestCoverPrediction/Forest_Cover_Master_v4.ipynb) [Presentation Link] (https://github.com/beaukramer/mids/blob/master/ML/ForestCoverPrediction/Forest_Cover_Prediction_Type.pdf)
+- [Automated Essay Grading] (https://github.com/pkurapati/W266-NLP-Project/blob/master/W266_Automated_Essay_Grading.pdf)
+
 ### Statistics
 - [Forest Fire EDA](https://github.com/beaukramer/mids/blob/master/Stats/ForestFire/liu_warther_kramer_hegde_fires.pdf)
 - [Crime Policy North Carolina](https://github.com/beaukramer/mids/blob/master/Stats/Crime/Kramer_Liu_crime.pdf)
