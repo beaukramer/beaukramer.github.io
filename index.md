@@ -9,7 +9,7 @@
 - [Eigen Portfolios]
 
 ### Machine Learning
-- [MNIST with K-Nearest Neighbors and Naive Bayes](https://github.com/beaukramer/mids/blob/master/ML/MNIST/MNIST_knn_nb.ipynb)
+- [Digit Classification with K-Nearest Neighbors and Naive Bayes](https://github.com/beaukramer/mids/blob/master/ML/MNIST/MNIST_knn_nb.ipynb): The Hello World! of data science projects. After covering the basics of a classification tasks, I moved on to some preprocessing techniques like blurring and used Naive Bayes to generate digits.
 - [News Article Topic Classification](https://github.com/beaukramer/mids/blob/master/ML/TopicClassification/topic_classification.ipynb)
 - [Poisnous Mushroom Clustering](https://github.com/beaukramer/mids/blob/master/ML/Mushroom%20Clustering/mushroom_clustering.ipynb)
 - [Forest Cover Prediction](https://github.com/beaukramer/mids/blob/master/ML/ForestCoverPrediction/Forest_Cover_Master_v4.ipynb) [Presentation Link] (https://github.com/beaukramer/mids/blob/master/ML/ForestCoverPrediction/Forest_Cover_Prediction_Type.pdf)
