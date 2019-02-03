@@ -45,12 +45,25 @@ The Hello World! of data science projects. After covering the basics of a classi
 
 
 ### Statistics
-- [Forest Fire EDA](https://github.com/beaukramer/mids/blob/master/Stats/ForestFire/liu_warther_kramer_hegde_fires.pdf) The focus of this project was on the importance of exploratory data analysis in any project. We explored a dataset about a portuguese national park that experienced severe wild fires to see if we could begin predicting conditions that make an area vulnerable to extreme fires.
-- [Crime Policy North Carolina](https://github.com/beaukramer/mids/blob/master/Stats/Crime/Kramer_Liu_crime.pdf) Classic linear regression was the focus of this project. We were given a dataset about crime in North Carolina in the 1980s with the goal of providing policy recommendations to politicians.
-- [Challenger Explosion](https://github.com/beaukramer/mids/blob/master/Stats/Challenger/Kramer_Papandrew_Challenger.pdf) This discrete response modeling project addressed whether temperature and/or pressure have a relationship with the failure of the primary o-rings in the space shuttle.
+- [Crime Policy North Carolina](https://github.com/beaukramer/mids/blob/master/Stats/Crime/Kramer_Liu_crime.pdf) 
+> Linear Regression | EDA
+Classic linear regression was the focus of this project. We were given a dataset about crime in North Carolina in the 1980s with the goal of providing policy recommendations to politicians.
+
+- [Challenger Explosion](https://github.com/beaukramer/mids/blob/master/Stats/Challenger/Kramer_Papandrew_Challenger.pdf) 
+> Discrete Response | Logistic Regression
+This discrete response modeling project addressed whether temperature and/or pressure have a relationship with the failure of the primary o-rings in the space shuttle.
+
 - [Cereal](https://github.com/beaukramer/mids/blob/master/Stats/Cereal/Kramer_Papandrew_Cereal.pdf)
+> Multinomial Regression | Likelihood Ratios
+
 - [Time Series Forecasting with SARIMA Model](https://github.com/beaukramer/mids/blob/master/Stats/TimeSeries/Kramer_Papandrew_TS.pdf)
+
 - [Drunk Driving](https://github.com/beaukramer/mids/blob/master/Stats/DrunkDriving/Kramer_Papandrew_DrunkDriving.pdf)
+
+- [Forest Fires](https://github.com/beaukramer/mids/blob/master/Stats/ForestFire/liu_warther_kramer_hegde_fires.pdf)
+> Data Visualization | EDA
+
+The focus of this project was on the importance of exploratory data analysis in any project. We explored a dataset about a portuguese national park that experienced severe wild fires to see if we could begin predicting conditions that make an area vulnerable to extreme fires.
 
 ### Fun
 
