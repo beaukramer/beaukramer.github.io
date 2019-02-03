@@ -11,8 +11,10 @@
 
 ### Machine Learning
 
-- [Automated Essay Grading and Inference Using Linear and Deep Learning Models] (https://github.com/pkurapati/W266-NLP-Project/blob/master/W266_Automated_Essay_Grading.pdf) For this NLP project, my team selected an automated essay grading challenge. We were interested in automatically generating feedback for students and for contrasting linear models with deep learning ones. We performed extensive feature engineering and trained deep learning models on an essay and sentence level. 
+- [Automated Essay Grading and Inference Using Linear and Deep Learning Models](https://github.com/pkurapati/W266-NLP-Project/blob/master/W266_Automated_Essay_Grading.pdf) 
 > NLP | Deep Learning | Machine Learning | Feature Engineering | Data Visualization
+For this NLP project, my team selected an automated essay grading challenge. We were interested in automatically generating feedback for students and for contrasting linear models with deep learning ones. We performed extensive feature engineering and trained deep learning models on an essay and sentence level. 
+
 
 - [News Article Topic Classification](https://github.com/beaukramer/mids/blob/master/ML/TopicClassification/topic_classification.ipynb): I trained classifiers using a bag-of-words model to identify the topic of a news article. After some intial attempts at the problem, I applied some preprocessing to the texts which improved the ability of the model to generalize.
 > NLP | Machine Learning | Data Processing
