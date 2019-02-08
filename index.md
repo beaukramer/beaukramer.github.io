@@ -6,7 +6,10 @@
 
 ### Finance
 - [Exploring Equity Returns](https://github.com/beaukramer/financial_analysis/blob/master/equity_returns.ipynb)
-- [Eigen Portfolios]
+
+- [Eigen Portfolios] (https://nbviewer.jupyter.org/github/beaukramer/financial_analysis/blob/95a513992ca604e0116ec9690453fe3ee0d5fa50/Eigen%20Portfolios/eigen_portfolios.ipynb)
+This was an implementation of a tactical asset allocation strategy where principal component analysis helped separate and weight assets into an offense and defense portfolio.
+
 - [CPI Visualization]
 
 ### Machine Learning
