@@ -1,6 +1,6 @@
 # Beau Kramer
 
-## Resume
+## [Resume](https://github.com/beaukramer/beaukramer.github.io/blob/master/Beau_Kramer_Resume.pdf)
 
 ## Projects
 
