@@ -9,8 +9,13 @@
 - [Eigen Portfolios](https://nbviewer.jupyter.org/github/beaukramer/financial_analysis/blob/95a513992ca604e0116ec9690453fe3ee0d5fa50/Eigen%20Portfolios/eigen_portfolios.ipynb)
 This was an implementation of a tactical asset allocation strategy where principal component analysis helped separate and weight assets into an offense and defense portfolio.
 
+- [Nowcasting Recessions](https://github.com/beaukramer/financial_analysis/blob/master/Nowcasting/Nowcasting_ML.ipynb)
+The goal of this project is to create a machine learning algorithm to detect whether the economy is in a recesssion or not. The NBER announces the beginning and end of recessions *after* they have passed. This presents an opportunity: if we could know the economy is likely already in  a recession months *before* it is officially announced then we could take appropriate action. For example, a manufacturer could scale down production in anticipation of the coming recession. Alternatively, it could scale up production if it knew that the recession was likely already over. I have two primary goals in developing this model: for it to be 1) performant and 2) interpretable.
+
 - [Pycerno](https://github.com/beaukramer/financial_analysis/blob/master/Pycerno/Pycerno.ipynb)
 This is a Python "translation" of the book "Quantitative Investment Portfolio Analytics In R" by James Picerno. I found this to be a uesful exercise because 1) it familiarized me with different Python packages relevant to financial analysis 2) made it easy for me to port R code I find to Python and 3) gave me lots of template code to do basic financial analysis of new datasets. Some of the code is clunky but this was in an effort to be faithful to the source code.
+
+
 
 - [CPI Visualization](https://docs.google.com/presentation/d/1GzarxmT_PxbcuKjcMhzQWHIqU5EMhqPfHCnWNRi_Ghc/edit?usp=sharing)
 This was a small project around picking a dataset and performing some EDA on it. Due to my background in finance, I chose the consumer price index. The numerous sub-components made it fun to disaggregate.
