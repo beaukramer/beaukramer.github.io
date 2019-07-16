@@ -49,12 +49,6 @@ Using PCA to reduce dimensionality, I clustered data about mushrooms to try to c
 For this group project, my team selected the forest cover prediction challenge. We had to predict the species of tree that lived in a 30x30m cell in several Colorado forests. We summarized our lessons learned in this [presentation](https://github.com/beaukramer/mids/blob/master/ML/ForestCoverPrediction/Forest_Cover_Prediction_Type.pdf).
 
 
-- [Digit Classification with K-Nearest Neighbors and Naive Bayes](https://github.com/beaukramer/mids/blob/master/ML/MNIST/MNIST_knn_nb.ipynb) 
-> Classification | Data Processing
-
-The Hello World! of data science projects. After covering the basics of a classification tasks, I moved on to some preprocessing techniques like blurring and used Naive Bayes to generate digits.
-
-
 
 ### Statistics
 - [Crime Policy North Carolina](https://github.com/beaukramer/mids/blob/master/Stats/Crime/Kramer_Liu_crime.pdf) 
